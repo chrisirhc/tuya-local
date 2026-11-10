@@ -3,6 +3,8 @@ products:
   - id: 7qcsglvoqkrdduk6
     manufacturer: Zemismart
     model: AM25WIFI
+  - id: 6ihupavxwdoyz2kb
+    model: Windproof roller blind
 entities:
   - entity: cover
     class: blind
