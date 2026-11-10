@@ -274,8 +274,9 @@ entities:
     name: Timeout period
     category: config
     dps:
-      - id: 105
+      - id: 109
         type: integer
+        optional: true
         name: value
         unit: "s"
         range:
