@@ -3,6 +3,9 @@ products:
   - id: 4o6u7vjbiqm9byms
     manufacturer: Tesla Smart
     model: XL
+  - id: fhzswauodooeoqgc
+    manufacturer: Sterra
+    model: Sun
 entities:
   - entity: humidifier
     class: dehumidifier
