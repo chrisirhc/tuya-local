@@ -1,5 +1,7 @@
 name: Fan with light
-# products:
+products:
+  - id: hxln3ntfyaqygrbc
+    manufacturer: Bestar
 #   - id: UNKNOWN
 #     manufacturer: Prestige
 #     model: M3
